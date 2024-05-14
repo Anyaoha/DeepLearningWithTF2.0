@@ -334,6 +334,7 @@ To cite the Deep Learning Book by GoodFellow, please use this bibtex entry:
 ```
 
 To cite the Deep Learning with Tensorflow 2.0 Book by Mukesh Mithrakumar, please use this bibtex entry:
+
 ```
 @book{MukeshMithrakumar-2019,
     title={Deep Learning with Tensorflow 2.0},
